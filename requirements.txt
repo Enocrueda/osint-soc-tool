@@ -1,0 +1,10 @@
+# OSINT SOC Toolkit - Dependencies
+# Python 3.8+ required
+
+# Core dependencies
+python-whois>=0.8.0
+dnspython>=2.4.0
+requests>=2.31.0
+
+# No additional dependencies required
+# All other modules are from Python Standard Library
