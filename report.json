@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "fecha": "2026-02-25T14:38:48.900462",
+    "objetivo": "amazon.com",
+    "tipo_de_analisis": "dominio",
+    "herramienta": "OSINT-SOC-Toolkit v1.0.0"
+  },
+  "whois": {
+    "dominio": "amazon.com",
+    "registrar": "MarkMonitor, Inc.",
+    "fecha_creacion": "1994-11-01 05:00:00",
+    "fecha_expiracion": "2026-10-31 04:00:00",
+    "servidores_dns": [
+      "NS1.AMZNDNS.CO.UK",
+      "NS1.AMZNDNS.COM",
+      "NS1.AMZNDNS.NET",
+      "NS1.AMZNDNS.ORG",
+      "NS2.AMZNDNS.CO.UK",
+      "NS2.AMZNDNS.COM",
+      "NS2.AMZNDNS.NET",
+      "NS2.AMZNDNS.ORG",
+      "ns2.amzndns.org",
+      "ns1.amzndns.com",
+      "ns2.amzndns.co.uk",
+      "ns2.amzndns.com",
+      "ns1.amzndns.co.uk",
+      "ns1.amzndns.org",
+      "ns2.amzndns.net",
+      "ns1.amzndns.net"
+    ],
+    "pais": "US",
+    "org": "Amazon Technologies, Inc."
+  },
+  "dns": {
+    "A": [
+      "98.82.161.185",
+      "98.87.170.71",
+      "98.87.170.74"
+    ],
+    "MX": [
+      {
+        "prioridad": 5,
+        "servidor": "amazon-smtp.amazon.com"
+      }
+    ],
+    "NS": [
+      "ns1.amzndns.org",
+      "ns2.amzndns.co.uk",
+      "ns2.amzndns.com",
+      "ns2.amzndns.net",
+      "ns2.amzndns.org",
+      "ns1.amzndns.co.uk",
+      "ns1.amzndns.com",
+      "ns1.amzndns.net"
+    ]
+  },
+  "geo": null,
+  "puertos": null
+}

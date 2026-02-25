@@ -89,7 +89,7 @@ python3 osint.py -i 8.8.8.8 -v
 ```
 
 ## Project Strucuture
-
+```
 osint-soc-tool/
 ├── osint.py                 # Main script
 ├── config.yaml              # Configuration file
@@ -102,7 +102,7 @@ osint-soc-tool/
 │   ├── USAGE.md             # Usage guide with examples
 │   └── API.md               # API documentation
 └── reports/                 # Generated reports (empty in repo)
-
+```
 ## Documentation
 - Installation Guide - Detailed setup instructions
 - Usage Guide - Command examples and workflows
@@ -129,7 +129,7 @@ for ip in $(cat iocs.txt); do
     python3 osint.py -i $ip -o "reports/${ip}.json"
 done
 
-
+```
 ## Ethical Use Warning
 This tool is intended for authorized security testing and incident response only.
 Users are responsible for complyning with all applicable laws and regulations. The
